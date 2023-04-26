@@ -5,7 +5,7 @@
 - 📫 How to reach me: henriquematielli@gmail.com
 - 💼 I currently work as a web developer at Mirador Technology.
 
-### 💡 Pages I Developed:
+### 💡 Pages i developed:
 
 [Mirador Academy](https://combo1.mirador-academy.com.br/)
 
