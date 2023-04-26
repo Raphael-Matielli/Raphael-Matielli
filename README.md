@@ -7,9 +7,9 @@
 
 ### 💡 Pages i developed:
 
-[Mirador Academy](https://combo1.mirador-academy.com.br/)
+   [Mirador Academy](https://combo1.mirador-academy.com.br/)
 
-[Simulador](https://combo1.mirador-academy.com.br/simulator/)
+   [Simulador](https://combo1.mirador-academy.com.br/simulator/)
 
 <!---
 Raphael-Matielli/Raphael-Matielli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
